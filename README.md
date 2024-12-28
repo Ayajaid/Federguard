@@ -73,11 +73,11 @@ Follow these steps to run the FederGuard project locally:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/FederGuard.git
+   git clone https://github.com/Ayajaid/Federguard.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd FederGuard
+   cd federguard
    ```
 3. Build the project:
    ```bash
