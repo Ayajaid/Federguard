@@ -13,10 +13,10 @@
 
 ## Software Architecture
 
-FederGuard is built on a layered architecture that separates the backend and frontend. Below is a simple representation of the architecture:
+
 ![image](https://github.com/user-attachments/assets/79d415e5-810b-455d-b6cf-d42203489765)
 
-
+FederGuard is built on a layered architecture that separates the backend and frontend. Below is a simple representation of the architecture
 The frontend uses Thymeleaf templates with HTML and CSS, while the backend leverages Spring Boot with a role-based security system, database integration, and anomaly detection logic.
 
 ---
